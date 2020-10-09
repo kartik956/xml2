@@ -10,7 +10,7 @@
   
 	<gift id="2">
     
-    <name>Vinayak</name>
+    <name>Vinayak khandelwal</name>
     <address>Jalore Gao</address>
     <no>8529779037</no>
     
