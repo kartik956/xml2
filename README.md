@@ -10,7 +10,7 @@
   
 	<gift id="2">
     
-    <name>Vaishali</name>
+    <name>Vinayak</name>
     <address>Jalore Gao</address>
     <no>8529779037</no>
     
@@ -18,7 +18,7 @@
   
   <gift id="3">
     
-    <name>Call kr </name>
+    <name>Call </name>
     <address>ispe</address>
     <no>7898312349</no>
     
