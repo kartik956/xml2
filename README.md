@@ -163,7 +163,7 @@
 
   </sports>
   
-<support_us id=""0>
+<support_us id="0">
 
 <name>Instagram</name>
 <address></address>
