@@ -63,6 +63,12 @@
     <no>312349</no>
 
   </food>
+  <must_visit id"0">
+
+<name>kileshvar</name>
+<address>https://www.google.com/maps/place/Shri+Kileshwar+Mahadev+Temple/@24.4684582,74.8509872,15z/data=!4m2!3m1!1s0x0:0xcca61efce4977979</address>
+<no></no>
+</must_visit>
 
   <train_booking id="0">
 
@@ -80,19 +86,15 @@
 
   </hotel>
   
-<must_visit id"0">
 
-<name>kileshvar</name>
-<address>https://www.google.com/maps/place/Shri+Kileshwar+Mahadev+Temple/@24.4684582,74.8509872,15z/data=!4m2!3m1!1s0x0:0xcca61efce4977979</address>
-</must_visit>
 
-  <mediciene id="0">
+  <medicine id="0">
 
     <name>vinayak</name>
     <address>1220</address>
     <no>312349</no>
 
-  </mediciene>
+  </medicine>
 
   <movie_ticket id="0">
 
