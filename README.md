@@ -77,10 +77,6 @@
  <no>7722920098</no>
 </medicine>
 
- <movie_ticket id="0">
-<name>vinayak</name>
-<no>312349</no>
- </movie_ticket>
 
 
 <night_life id="0">
@@ -115,4 +111,4 @@
 </support_us>
 
 
-</Application
+</Application>
