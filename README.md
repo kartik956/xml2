@@ -46,7 +46,7 @@
   
   <must_vist id="0">
 <name>kileshvar</name>
-<no>https://www.google.com/maps/place/Shri+Kileshwar+Mahadev+Temple/@24.4684582,74.8509872,15z/data=!4m2!3m1!1s0x0:0xcca61efce4977979"</no>
+<no>https://www.google.com/maps/place/Kaleshwar+mahadev/@24.5629227,73.70624,17z/data=!4m12!1m6!3m5!1s0x3967ef0216872b13:0x7c058e495d2322f9!2sKaleshwar+mahadev!8m2!3d24.5629227!4d73.7084287!3m4!1s0x3967ef0216872b13:0x7c058e495d2322f9!8m2!3d24.5629227!4d73.7084287</no>
 </must_vist>
 
  <train_booking id="0">
