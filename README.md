@@ -89,10 +89,10 @@
 <no>312349</no>
 </daily_shoping>
 
-<interior_design id="0">
+<decoration id="0">
 <name>vinayak</name>
  <no>312349</no>
-</interior_design>
+</decoration>
   
  <flight_booking id="0">
 <name>vinayak</name>
