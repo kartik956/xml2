@@ -6,14 +6,11 @@
 </gift>
   
 <gift id="1">
- <name>Vinayak</name>
-  <no>8529779037</no>
+ <name>Krishna</name>
+  <no>9407431304</no>
   </gift>
 
-<gift id="2">
-<name>Call </name>
-<no>7898312349</no>
- </gift>
+
 
 <party_room id="0">
 <name>Ratan Maharaj</name>
@@ -40,9 +37,19 @@
 <no>9752930365</no>
 </mobile_repair>
 
+<mobile_repair id="1">
+<name>Charchit</name>
+<no>7440444414</no>
+</mobile_repair>
+
  <gym id="0">
-<name>Arbas Gym</name>
+<name>Fitness Studio</name>
  <no>9669999720</no>
+</gym>
+
+ <gym id="1">
+<name>Live Strong Fitness</name>
+ <no>8770511448</no>
 </gym>
 
 
@@ -53,6 +60,11 @@
 
  <food id="1">
 <name>Ratan Maharaj</name>
+<no>8770973833</no>
+</food>
+
+<food id="2">
+<name>Minute Meals</name>
 <no>8770973833</no>
 </food>
 
@@ -120,6 +132,11 @@
  <no>7722920098</no>
 </medicine>
 
+<medicine id="2">
+<name>Jain Madicine</name>
+ <no>9479441001</no>
+</medicine>
+
 
 
 <night_life id="0">
@@ -133,19 +150,24 @@
  </education>
 
 <daily_shoping id="0">
-<name>vinayak</name>
-<no>312349</no>
+<name>Goyal Store</name>
+<no>7049034903</no>
 </daily_shoping>
 
 <decoration id="0">
 <name>Birthday Decoration</name>
 <no>7999851621</no>
 </decoration>
+
+<decoration id="0">
+<name>Party Decoration</name>
+<no>7000104458</no>
+</decoration>
   
 
  <sports id="0">
-<name>vinayak</name>
-<no>312349</no>
+<name>Amit Sports</name>
+<no>9425967410</no>
 </sports>
   
 <support_us id="0">
