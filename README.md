@@ -56,16 +56,59 @@
 <no>8770973833</no>
 </food>
 
-  <must_vist id="0">
-<name>Kileshvar</name>
-<no>https://www.google.com/maps/place/Kaleshwar+mahadev/@24.5629227,73.70624,17z/data=!4m12!1m6!3m5!1s0x3967ef0216872b13:0x7c058e495d2322f9!2sKaleshwar+mahadev!8m2!3d24.5629227!4d73.7084287!3m4!1s0x3967ef0216872b13:0x7c058e495d2322f9!8m2!3d24.5629227!4d73.7084287</no>
-</must_vist>
+<must visit id="0">
+<name>Kileshwar Temple</name>
+<no>https://www.google.com/maps/place/Shri+Kileshwar+Mahadev+Temple/@24.4684582,74.8487985,17z/data=!3m1!4b1!4m5!3m4!1s0x39667374b2221d2b:0xcca61efce4977979!8m2!3d24.4684582!4d74.8509872</no>
+</must visit>
+
+<must visit id="1">
+<name>Gandhi Sagar Dam</name>
+<no>https://www.google.com/maps/place/Gandhi+Sagar+Dam,+Karanpura+Block,+Madhya+Pradesh+458118/@24.6976203,75.5420748,14z/data=!4m13!1m7!3m6!1s0x39659a41b92e7fed:0x7e2454d468f8e4d8!2sGandhi+Sagar+Dam,+Karanpura+Block,+Madhya+Pradesh+458118!3b1!8m2!3d24.7000766!4d75.552632!3m4!1s0x39659a41b92e7fed:0x7e2454d468f8e4d8!8m2!3d24.7000766!4d75.552632</no>
+</must visit>
+
+
+<must visit id="2">
+<name>BhadwaMata Temple</name>
+<no>https://www.google.com/maps/place/Bhadwa+Mata+Temple/@24.473505,75.0433085,17z/data=!3m1!4b1!4m5!3m4!1s0x3965de8e1ee0a521:0x1d041a4f43d0711b!8m2!3d24.473505!4d75.0454972</no>
+</must visit>
+
+<must visit id="3">
+<name>Sawariya Ji Temple</name>
+<no>https://www.google.com/maps/place/Chamatkari+Sanwariya+Seth+Mandir/@24.8565251,74.5752549,13z/data=!4m5!3m4!1s0x3968a009a24b2d8f:0x49d8546c898109e3!8m2!3d24.858219!4d74.6091044</no>
+</must visit>
+
+<must visit id="4">
+<name>Harkiyakhal Dam</name>
+<no>https://www.google.com/maps/place/Harkiyakhal+Dam+Neemuch,+Kothadi+Istmurar,+Madhya+Pradesh+458441/@24.361445,74.8993778,14z/data=!4m5!3m4!1s0x3966770e79d935af:0x3630991dffd988e7!8m2!3d24.3599203!4d74.9113941?hl=en</no>
+</must visit>
+
+<must visit id="5">
+<name>JK Temple</name>
+<no>https://www.google.com/maps/place/JK+Temple/@24.6355886,74.6801776,15z/data=!4m2!3m1!1s0x0:0x1980c38a35fc7ef9?sa=X&ved=2ahUKEwiu_pm5lL3sAhX8yzgGHaimA_wQ_BIwGHoECBEQBQ</no>
+</must visit>
 
 
 <hotel id="0">
-<name>vinayak</name>
-<no>312349</no>
+<name>Bharat Palace</name>
+<no>07423222213</no>
 </hotel>
+
+<hotel id="1">
+<name>Midtown</name>
+<no>07423220222</no>
+</hotel>
+
+<hotel id="2">
+<name>Hotel Jindal</name>
+<no>07423220926</no>
+</hotel>
+
+
+<hotel id="3">
+<name>Vrindavan Greens</name>
+<no>01246201180</no>
+</hotel>
+
 
 <medicine id="0">
 <name>Doctor On Call</name>
