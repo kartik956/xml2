@@ -84,7 +84,7 @@
 
 <must_visit id="5">
 <name>JK Temple</name>
-<no>https://www.google.com/maps/place/JK+Temple/@24.6355886,74.6801776,15z/data=!4m2!3m1!1s0x0:0x1980c38a35fc7ef9?sa=X&ved=2ahUKEwiu_pm5lL3sAhX8yzgGHaimA_wQ_BIwGHoECBEQBQ</no>
+<no>https://www.google.com/maps/place/JK+Temple,+NH+79,+JK+Colony,+Nimbahera,+Rajasthan+312601/@24.6353686,74.6775511,17z/data=!3m1!4b1!4m5!3m4!1s0x396617296af06661:0x27a49ebe8a4dac2b!8m2!3d24.6354238!4d74.6797011</no>
 </must_visit>
 
 
