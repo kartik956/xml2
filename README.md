@@ -1,7 +1,7 @@
 <Application>
 	 
 <gift id="0">
-<name>Gifts In</name>
+<name>Gift In Gift Gallery</name>
 <no>93000046457</no>
 </gift>
   
